@@ -1,0 +1,1 @@
+go build -o bottest.exe ./src/main.go

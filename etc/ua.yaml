@@ -1,0 +1,163 @@
+User-agent:
+- Pavuk
+- Xaldon
+- Turnitinbot
+- Sosospider+(+http://help.soso.com/webspider.htm)
+- Surfbot
+- Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+- Sqworm
+- SlySearch
+- Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0 Fiddler Spider 
+- PageGrabber
+- RealDownload
+- InfoNaviRobot/0.9 (+http://www.infoseek.co.jp/)
+- NearSite
+- Internet Ninja/1.0
+- Kenjin Spider/0.1
+- lexiBot/1.0
+- Mozilla/4.0 (compatible; MSIE 5.01; Windows 95; MSIECrawler)
+- NICErsPRO"
+- NPBot"
+- Navroad"
+- EmailCollector
+- EmailWolf
+- CopyRightCheck
+- Black Hole
+- Titan
+- NetMechanic
+- CherryPicker
+- EmailSiphon
+- WebBandit
+- Crescent
+- NICErsPRO
+- SiteSnagger
+- ProWebWalker
+- CheeseBot
+- ia_archiver
+- ia_archiver/1.6
+- Teleport
+- TeleportPro
+- Wget
+- MIIxpc
+- Telesoft
+- Website Quester
+- WebZip
+- moget/2.1
+- WebZip/4.0
+- Mister PiX
+- WebStripper
+- WebSauger
+- WebCopier
+- NetAnts
+- WebAuto
+- TheNomad
+- WWW-Collector-E
+- RMA
+- libWeb/clsHTTP
+- asterias
+- httplib
+- turingos
+- spanner
+- InfoNaviRobot
+- Harvest/1.5
+- Bullseye/1.0
+- Mozilla/4.0 (compatible; BullsEye; Windows 95)
+- Crescent Internet ToolPak HTTP OLE Control v.1.0
+- CherryPickerSE/1.0
+- CherryPickerElite/1.0
+- WebBandit/3.50
+- DittoSpyder
+- SpankBot
+- BotALot
+- lwp-trivial/1.34
+- lwp-trivial
+- Wget/1.6
+- BunnySlippers
+- URLy Warning
+- Wget/1.5.3
+- LinkWalker
+- cosmos
+- moget
+- hloader
+- humanlinks
+- LinkextractorPro
+- Offline Explorer
+- Mata Hari
+- LexiBot
+- Web Image Collector
+- The Intraformant
+- True_Robot/1.0
+- True_Robot
+- BlowFish/1.0
+- JennyBot
+- MIIxpc/4.2
+- BuiltBotTough
+- ProPowerBot/2.14
+- BackDoorBot/1.0
+- toCrawl/UrlDispatcher
+- WebEnhancer
+- TightTwatBot
+- suzuran
+- VCI WebViewer VCI WebViewer Win32
+- VCI
+- Szukacz/1.4
+- QueryN Metasearch
+- Openfind data gathere
+- Openfind
+- Xenu's Link Sleuth 1.1c
+- Xenu's
+- Aqua_Products
+- b2w/0.1
+- BLP_bbot
+- BLP_bbot/0.1
+- Bookmark search tool
+- BUbiNG
+- EroCrawler
+- Exabot
+- ExtractorPro
+- FairAd Client
+- Flaming AttackBot
+- Foobot
+- Gaisbot
+- GetRight/4.2
+- grub
+- grub-client
+- InfoPath
+- InfoPath.1
+- InfoPath.2
+- Iron33/1.0.2
+- Kenjin Spider
+- Keyword Density/0.9
+- larbin
+- LinkScan/8.1a Unix
+- LNSpiderguy
+- looksmart
+- Microsoft URL Control
+- Microsoft URL Control - 5.01.4511
+- Microsoft URL Control - 6.00.8169
+- MJ12bot
+- MSIECrawler
+- Openbot
+- Oracle Ultra Search
+- PerMan
+- PetalBot
+- psbot
+- Python-urllib
+- Radiation Retriever 1.1
+- RepoMonkey
+- RepoMonkey Bait & Tackle/v1.01
+- searchpreview
+- URL Control
+- URL_Spider_Pro
+- WebmasterWorldForumBot
+- Webster Pro
+- Zeus
+- Zeus 32297 Webster Pro V2.9 Win32
+- Zeus Link Scout
+- Cegbfeieh
+
+URL: https://172.24.178.124:8002
+
+SWITCH: 1 #0是web攻击 1是爬虫
+
+TIMEOUT: 1
